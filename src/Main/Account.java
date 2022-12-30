@@ -76,7 +76,7 @@ public class Account {
             System.out.println("\n" +
                     Utils.doubleToString(value) +
                     " was transfered from Account ID: " +
-                    accountId + "\nTo " +
+                    accountId + "\nTo Account ID: " +
                     payee.accountId + "\n");
         } else {
             System.out.println("Your transaction cannot be completed.");
