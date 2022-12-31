@@ -1,7 +1,7 @@
 # JavaBankATM
 This is a simple ATM made in Java.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dIuU_loGL2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Java Bank ATM](https://i.ibb.co/Gd4XRV2/Automated-Teller-Machine-2-2.png)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=dIuU_loGL2s) "Java Bank ATM")
 
 The implemented features are:
 
