@@ -1,5 +1,4 @@
 # JavaBankATM
-This is a simple ATM made in Java.
 
 [![Java Bank ATM](https://i.ibb.co/Gd4XRV2/Automated-Teller-Machine-2-2.png)](https://www.youtube.com/watch?v=dIuU_loGL2s "Java Bank ATM")
 
